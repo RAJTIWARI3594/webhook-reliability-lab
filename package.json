@@ -1,0 +1,1 @@
+{"name":"webhook-reliability-lab","version":"1.0.0","type":"module","description":"A local, deterministic simulator for webhook delivery reliability patterns.","engines":{"node":">=18"},"scripts":{"test":"node --test","start":"python3 -m http.server 4173"}}
